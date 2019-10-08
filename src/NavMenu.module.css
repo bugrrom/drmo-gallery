@@ -1,0 +1,5 @@
+.nav{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}

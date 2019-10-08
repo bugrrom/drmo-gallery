@@ -1,0 +1,26 @@
+.main{
+    height: 90vh;
+    background-color: rosybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height: 70%;
+    width: 80%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.photo{
+    width: 300px;
+    height: 400px;
+    background-color: #b7e2ff;
+}
+.text1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,34 @@
+.footer{
+    height: 50vh;
+    background-color: #f3ffe5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 80%;
+    height: 80%;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.container1{
+    border: 1px solid;
+    width: 50%;
+    height: 30%;
+    display: flex;
+}
+.container span{
+    display: block;
+    padding: 1%;
+    background-color: gray;
+}
+.container11{
+    flex: 1;
+    background-color: gray;
+}
+.container12{
+    flex: 1;
+}
