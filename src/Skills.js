@@ -1,6 +1,7 @@
 import React from 'react';
 
 import styles from './Skills.module.css';
+import MySkills from "./MySkills";
 
 function Skills() {
   return (
@@ -12,19 +13,9 @@ function Skills() {
 
 
         <div className={styles.interiorContainer}>
-          <div className={styles.interiorContainer1}></div>
-          <div className={styles.interiorContainer2}></div>
-          <div className={styles.interiorContainer3}>
-            <div className={styles.interiorContainer31}></div>
-          </div>
-          <div className={styles.interiorContainer2}></div>
-          <div className={styles.interiorContainer3}>
-            <div className={styles.interiorContainer32}>
-              <div className={styles.interiorContainer321}></div>
-              <span>React</span>
-            </div>
-            <div className={styles.interiorContainer31}></div>
-          </div>
+          <MySkills/>
+          <MySkills/>
+          <MySkills/>
         </div>
       </div>
     </div>
