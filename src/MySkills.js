@@ -2,12 +2,14 @@ import React from 'react';
 
 import styles from './MySkills.module.css';
 
-function Skills() {
+function MySkills() {
   return (
       <div  className={styles.myskills}>
+        <div className={styles.myskills1}>
 
+        </div>
       </div>
   );
 }
 
-export default Skills;
+export default MySkills;
