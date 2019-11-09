@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef58c04a7be9239fb98dc5cba5befaeb",
+    "revision": "d00fae2d788cc1d8e4a0297219300f3f",
     "url": "/demo-gallery/index.html"
   },
   {
-    "revision": "3ccccdee695f75c76864",
-    "url": "/demo-gallery/static/css/main.e34410c8.chunk.css"
+    "revision": "9dd6a65a8a687faabbba",
+    "url": "/demo-gallery/static/css/main.ba33c63a.chunk.css"
   },
   {
-    "revision": "f3c99a57ee917c83bd33",
-    "url": "/demo-gallery/static/js/2.ac7d3947.chunk.js"
+    "revision": "bfda8462f1622fd950b1",
+    "url": "/demo-gallery/static/js/2.2d6b14b0.chunk.js"
   },
   {
-    "revision": "3ccccdee695f75c76864",
-    "url": "/demo-gallery/static/js/main.c2da8ef1.chunk.js"
+    "revision": "9dd6a65a8a687faabbba",
+    "url": "/demo-gallery/static/js/main.94672cf9.chunk.js"
   },
   {
     "revision": "e2301e2f9a4b8d0eceb2",
     "url": "/demo-gallery/static/js/runtime-main.730fd2b7.js"
+  },
+  {
+    "revision": "39874e36076bf451f37453804c8344e9",
+    "url": "/demo-gallery/static/media/doroga_razmetka_derevia_137674_1920x1080.39874e36.jpg"
+  },
+  {
+    "revision": "92f9fc0915dca9cd41ee6f3df9c89314",
+    "url": "/demo-gallery/static/media/github_icon-icons.com_65450.92f9fc09.png"
   },
   {
     "revision": "2c87586f0c258039eb380099ec7dd8b3",
