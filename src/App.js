@@ -1,13 +1,13 @@
 import React from 'react';
 
 import './App.css';
-import Main from "./Main";
-import Header from "./Header";
-import Footer from "./Footer";
-import Contacts from "./Contacts";
-import Project from "./Project";
-import Skills from "./Skills";
-import Slogan from "./Slogan";
+import Main from "./Mains/Main";
+import Header from "./Mains/Header";
+import Footer from "./Footer/Footer";
+import Contacts from "./Contact/Contacts";
+import Project from "./Project/Project";
+import Skills from "./Skills/Skills";
+import Slogan from "./Slogan/Slogan";
 
 
 function App() {

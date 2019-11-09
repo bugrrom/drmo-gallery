@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './Progect.module.css';
+import styles from './Project.module.css';
 import MyProject from "./MyProject";
 
 

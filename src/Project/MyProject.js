@@ -1,14 +1,14 @@
 import React from 'react';
 
 import styles from './MyProject.module.css';
+import Button from "../Button";
 
 
 function MyProject() {
   return (
       <div className={styles.container}>
-          <div className={styles.myproject}>
 
-          </div>
+              <Button text={'Open'}/>
       </div>
   );
 }
