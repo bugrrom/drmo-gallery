@@ -1,0 +1,14 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.mainHeader{
+    background-image: url("images/lava_vulkan_obryv_136106_1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+.boxShadow{
+    background-color: rgba(0,0,0,0.5);
+}

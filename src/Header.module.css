@@ -1,12 +1,10 @@
 .header{
-    height: 10vh;
-    background-color: #b7e2ff;
+    min-height: 12vh;
     display: flex;
     justify-content: center;
 }
 .container{
     width: 80%;
-    border: 1px solid;
     display: flex;
     justify-content: flex-end;
     align-items: center;

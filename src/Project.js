@@ -9,8 +9,8 @@ function Project() {
     <div className={styles.project}>
 
       <div className={styles.container}>
-        <div className={styles.text}>
-          <p>Мои работы</p>
+        <div className={styles.skillsText}>
+          <h1>My Project</h1>
         </div>
         <div className={styles.myproject}>
           <MyProject/>

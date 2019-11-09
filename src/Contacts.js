@@ -7,13 +7,12 @@ function Contacts() {
   return (
     <div className={styles.contacts}>
       <div className={styles.container}>
-        <span>Контакты</span>
+        <h1>Contacts</h1>
         <div className={styles.contactsInfo}>
-          <div className={styles.contactsInfo1}></div>
-          <div className={styles.contactsInfo2}></div>
-          <div className={styles.contactsInfo1}></div>
-          <div className={styles.contactsInfo2}></div>
-          <div className={styles.contactsInfo3}></div>
+          <input type="text" placeholder='Name'/>
+          <input type="text" placeholder='E-mail'/>
+          <input className={styles.message} type="text" placeholder='Message'/>
+          <button>Click me</button>
         </div>
         <span>Отправить</span>
       </div>

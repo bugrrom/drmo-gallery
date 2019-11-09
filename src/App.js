@@ -11,20 +11,23 @@ import Slogan from "./Slogan";
 
 
 function App() {
-  return (
-    <div className="App">
-      <div className="portfolio">
-        <Header/>
-        <Main/>
-        <Skills/>
-        <Project/>
-        <Slogan/>
-        <Contacts/>
-        <Footer/>
-      </div>
+    return (
+        <div className="App">
+            <div className='mainHeader'>
+                <div className='boxShadow'>
+                    <Header/>
+                    <Main/>
+                </div>
+            </div>
+            <Skills/>
+            <Project/>
+            <Slogan/>
+            <Contacts/>
+            <Footer/>
 
-    </div>
-  );
+
+        </div>
+    );
 }
 
 export default App;
