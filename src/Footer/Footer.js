@@ -5,20 +5,19 @@ import Social from "./Social";
 
 
 function Footer() {
-  return (
-    <div className={styles.footer}>
-      <div className={styles.container}>
-        <span>Иван Иванов</span>
-        <div className={styles.container1}>
-          <Social/>
-          <Social/>
-          <Social/>
-          <Social/>
+    return (
+        <div className={styles.footer}>
+            <div className={styles.footerShadow}>
+                <div className={styles.container}>
+                    <span>Иван Иванов</span>
+                    <div className={styles.container1}>
+                        <Social/>
+                    </div>
+                    <span>2019 Все права защищены</span>
+                </div>
+            </div>
         </div>
-        <span>2019 Все права защищены</span>
-      </div>
-    </div>
-  );
+    );
 }
 
 export default Footer;

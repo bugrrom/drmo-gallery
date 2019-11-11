@@ -3,25 +3,22 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 .container{
     height: 70%;
     width: 80%;
-
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column-reverse;
-
 }
 .photo{
     width: 200px;
     height: 200px;
     background-color: darkslateblue;
     border-radius: 50%;
-    border: 1px solid white;
+    border: 2px solid #16a085;
 }
 .text1{
     display: flex;
@@ -65,14 +62,9 @@
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
-.content__container__text {
-    display: inline;
-    float: left;
-    margin: 0;
-}
 .content__container__list {
     margin-top: 0;
-    text-align: left;
+    text-align: center;
     list-style: none;
     animation-name: change;
     animation-duration: 20s;
@@ -145,5 +137,16 @@
     83.3%,
     95.96% {
         transform: translate3d(0, -25%, 0);
+    }
+}
+@media (min-width: 300px) and (max-width: 1000px){
+    .container{
+        width: 100%;
+    }
+    .content{
+        font-size: 22px;
+    }
+    .content__container {
+        padding: 0 20px;
     }
 }

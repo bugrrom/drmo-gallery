@@ -35,7 +35,7 @@
 }
 
 h1 {
-
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
     background-size: cover;
     color: transparent;
     -webkit-background-clip: text;
@@ -45,11 +45,11 @@ h1 {
 
 }
 
-@media (min-width: 350px) and (max-width: 1000px){
+@media (min-width: 300px) and (max-width: 1000px){
     .interiorContainer{
         justify-content: space-around;
     }
     .container{
-        margin: 20% 0 20% 0;
+        margin: 10% 0 10% 0;
     }
 }

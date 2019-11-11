@@ -1,10 +1,31 @@
-.social{
-    background-color: gray;
-    width: 86px;
-    height: 86px;
+.container{
+    display: flex;
+    margin: 1.5em 0;
 }
-@media (min-width: 350px) and (max-width: 1000px){
-    .social{
-        margin-top: 10%;
-    }
+.iconGit{
+    width: 100px;
+    height: 60px;
+    display: block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/github_icon-icons.com_65450.png");
+}
+.iconLn{
+    width: 100px;
+    height: 60px;
+    display: block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/linkedin.png");
+}
+.iconTel{
+    width: 100px;
+    height: 60px;
+    display: block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("../images/telegram.png");
 }

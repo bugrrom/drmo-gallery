@@ -9,9 +9,7 @@ function Main() {
         <div className={styles.text1}>
           <div className={styles.content}>
             <div className={styles.content__container}>
-              <p className={styles.content__container__text}>
 
-              </p>
               <ul className={styles.content__container__list}>
                 <li className={styles.content__container__list__item}>I'm Ivan Ivanov</li>
                 <li className={styles.content__container__list__item}>I'm Frontend developer</li>
