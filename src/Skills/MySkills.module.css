@@ -1,5 +1,5 @@
 .myskills{
-    min-height: 30vh;
+    min-height: 20vh;
     width: 300px;
     display: flex;
     align-items: center;
@@ -7,6 +7,7 @@
     justify-content: space-around;
     border: 1px solid red;
     border-radius: 10%;
+    padding: 25px 35px;
 }
 
 .myskills span{

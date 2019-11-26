@@ -45,6 +45,7 @@ h1 {
 
 }
 
+
 @media (min-width: 300px) and (max-width: 1000px){
     .interiorContainer{
         justify-content: space-around;

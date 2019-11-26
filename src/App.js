@@ -21,7 +21,6 @@ function App() {
             </div>
             <Skills/>
             <Project/>
-            <Slogan/>
             <Contacts/>
             <Footer/>
 

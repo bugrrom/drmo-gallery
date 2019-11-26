@@ -28,3 +28,8 @@
 .container span{
     color: white;
 }
+@media (min-width: 300px) and (max-width: 1000px){
+    .container{
+        width: 100%;
+    }
+}

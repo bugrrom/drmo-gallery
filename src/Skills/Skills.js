@@ -21,6 +21,7 @@ export default class Skills extends React.Component {
                         <MySkills skill={'React & Redax'}
                                   text={'тут должен быть какой-то текст, много текста, бла бла бла бла'}/>
                     </div>
+
                 </div>
             </div>
         );
