@@ -12,9 +12,9 @@ function Contacts() {
         <div className={styles.contactsInfo}>
           <input type="text" placeholder='Name'/>
           <input type="text" placeholder='E-mail'/>
-          <input className={styles.message} type="text" placeholder='Message'/>
+          <textarea placeholder='Message'/>
 
-        </div>
+         </div>
         <Button text={'Click me'}/>
       </div>
     </div>

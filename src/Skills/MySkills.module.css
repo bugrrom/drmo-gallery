@@ -1,41 +1,40 @@
 .myskills{
     min-height: 20vh;
-    width: 300px;
+    width: 400px;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-    border: 1px solid red;
-    border-radius: 10%;
-    padding: 25px 35px;
+    padding: 0px 40px;
 }
 
 .myskills span{
     text-align: center;
+    margin: 20px 0;
 }
-.imageSkills{
-    width: 50px;
-    height: 50px;
+.name{
+    font-size: 30px;
+    font-weight: 700;
 }
 .iconHtmlCss{
-    width: 100px;
-    height: 60px;
+    width: 150px;
+    height: 100px;
     background-image: url("../images/html_css.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 .iconJs{
-    width: 50px;
-    height: 50px;
+    width: 90px;
+    height: 90px;
     background-image: url("../images/js.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 .iconReactRedax{
-    width: 100px;
-    height: 50px;
+    width: 150px;
+    height: 100px;
     background-image: url("../images/reactRedax.png");
     background-position: center center;
     background-repeat: no-repeat;

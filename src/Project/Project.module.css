@@ -13,7 +13,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin: 4em 0 4em 0;
+    margin: 100px 0;
 }
 .skillsText {
     font-family: "Montserrat";
@@ -30,7 +30,7 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin-top: 5%;
+    margin-top: 100px;
 }
 @media (min-width: 300px) and (max-width: 1000px){
     .myproject{

@@ -22,7 +22,7 @@ export default class MySkills extends React.Component {
 
                 <div className={icon}>
                 </div>
-                <span>{this.props.skill}</span>
+                <span className={styles.name}>{this.props.skill}</span>
                 <span>{this.props.text}</span>
 
 

@@ -9,7 +9,7 @@ function Footer() {
         <div className={styles.footer}>
             <div className={styles.footerShadow}>
                 <div className={styles.container}>
-                    <span>Bugakov Roman</span>
+                    <span className={styles.name}>Bugakov Roman</span>
                     <div className={styles.container1}>
                         <Social/>
                     </div>

@@ -16,7 +16,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 2em 0;
+    margin: 100px 0 10px 0 ;
     width: 40%;
 }
 .container1{
@@ -27,6 +27,9 @@
 }
 .container span{
     color: white;
+}
+.name {
+    font-size: 30px;
 }
 @media (min-width: 300px) and (max-width: 1000px){
     .container{
