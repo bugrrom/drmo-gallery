@@ -1,19 +1,27 @@
 {
   "files": {
-    "main.css": "/demo-gallery/static/css/main.470727cc.chunk.css",
-    "main.js": "/demo-gallery/static/js/main.c4b48468.chunk.js",
-    "main.js.map": "/demo-gallery/static/js/main.c4b48468.chunk.js.map",
-    "runtime-main.js": "/demo-gallery/static/js/runtime-main.730fd2b7.js",
-    "runtime-main.js.map": "/demo-gallery/static/js/runtime-main.730fd2b7.js.map",
-    "static/js/2.2d6b14b0.chunk.js": "/demo-gallery/static/js/2.2d6b14b0.chunk.js",
-    "static/js/2.2d6b14b0.chunk.js.map": "/demo-gallery/static/js/2.2d6b14b0.chunk.js.map",
+    "main.css": "/demo-gallery/static/css/main.ee685f69.chunk.css",
+    "main.js": "/demo-gallery/static/js/main.7141a8da.chunk.js",
+    "main.js.map": "/demo-gallery/static/js/main.7141a8da.chunk.js.map",
+    "runtime-main.js": "/demo-gallery/static/js/runtime-main.bd48617a.js",
+    "runtime-main.js.map": "/demo-gallery/static/js/runtime-main.bd48617a.js.map",
+    "static/js/2.d2230baf.chunk.js": "/demo-gallery/static/js/2.d2230baf.chunk.js",
+    "static/js/2.d2230baf.chunk.js.map": "/demo-gallery/static/js/2.d2230baf.chunk.js.map",
     "index.html": "/demo-gallery/index.html",
-    "precache-manifest.450398c8cb41519d432a01e53e019e1c.js": "/demo-gallery/precache-manifest.450398c8cb41519d432a01e53e019e1c.js",
+    "precache-manifest.effada5640a8cd9ee0fbb8f7ea6823e6.js": "/demo-gallery/precache-manifest.effada5640a8cd9ee0fbb8f7ea6823e6.js",
     "service-worker.js": "/demo-gallery/service-worker.js",
-    "static/css/main.470727cc.chunk.css.map": "/demo-gallery/static/css/main.470727cc.chunk.css.map",
+    "static/css/main.ee685f69.chunk.css.map": "/demo-gallery/static/css/main.ee685f69.chunk.css.map",
+    "static/js/2.d2230baf.chunk.js.LICENSE": "/demo-gallery/static/js/2.d2230baf.chunk.js.LICENSE",
+    "static/media/MyProject.module.css": "/demo-gallery/static/media/AncS0vNj674.b76aa78e.jpg",
     "static/media/Footer.module.css": "/demo-gallery/static/media/doroga_razmetka_derevia_137674_1920x1080.39874e36.jpg",
     "static/media/Social.module.css": "/demo-gallery/static/media/github_icon-icons.com_65450.92f9fc09.png",
     "static/media/MySkills.module.css": "/demo-gallery/static/media/reactRedax.99e0859d.png",
     "static/media/App.css": "/demo-gallery/static/media/lava_vulkan_obryv_136106_1920x1080.e23e3e19.jpg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd48617a.js",
+    "static/js/2.d2230baf.chunk.js",
+    "static/css/main.ee685f69.chunk.css",
+    "static/js/main.7141a8da.chunk.js"
+  ]
 }
