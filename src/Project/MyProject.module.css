@@ -1,12 +1,31 @@
 .container{
   width: 500px;
   min-height: 450px;
-  background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+  border-radius: 5px;
+  margin: 5px 0;
 
+}
+.shadow{
+  background-color: rgba(0, 0, 0, .7) ;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+}
+.quiz{
+  background: url("../images/AncS0vNj674.jpg") top center;
+}
+.todo{
+  background: url("../images/lYepEPtdvfQ.jpg") top center;
+}
+.shadow p{
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
 @media (min-width: 300px) and (max-width: 1000px){
   .container{
     margin-top: 10%;

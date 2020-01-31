@@ -7,7 +7,9 @@
     "postcss-svgo": "^4.0.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0",
+    "react-scroll": "^1.7.15"
   },
   "scripts": {
     "start": "react-scripts start",

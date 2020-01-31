@@ -7,7 +7,8 @@ import Footer from "./Footer/Footer";
 import Contacts from "./Contact/Contacts";
 import Project from "./Project/Project";
 import Skills from "./Skills/Skills";
-import Slogan from "./Slogan/Slogan";
+
+
 
 
 function App() {

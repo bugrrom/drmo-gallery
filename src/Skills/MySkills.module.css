@@ -1,22 +1,23 @@
 .myskills{
     min-height: 20vh;
-    width: 400px;
+    width: 200px;
     display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: space-around;
-    padding: 0px 40px;
+    justify-content: flex-start;
+    padding: 0px 20px;
+    margin: 20px 0;
 }
 
 .myskills span{
     text-align: center;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 .name{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 700;
 }
-.iconHtmlCss{
+/*.iconHtmlCss{
     width: 150px;
     height: 100px;
     background-image: url("../images/html_css.png");
@@ -39,6 +40,56 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
+}*/
+
+.Css{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/css3-de8356c7ec97ec8534b0f8a3273bd14db9f05dd53180e5ad2d9a0867ea2fd2da.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.Html{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/html5-7f9db902504799f416253e902b96ae49eaf46b815fc9653e84c4f1df698d6e4c.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.React {
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/reactjs-ddce7267b08ac632ef757d630fe9d1a83ac7b2e103a6ffd5bf1131cdf859f0b4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.Redux{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/html5-7f9db902504799f416253e902b96ae49eaf46b815fc9653e84c4f1df698d6e4c.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.js{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/javascript-11a1e64015ab9ff544fb99213ca7ad8dac8df09471c7cddc872e86e070d3debb.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.git{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/git-1a9d20d4952f01b15fd5d5081016f499431e76bd55b3b8f56e3eb2a2815e029a.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.webpack{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/webpack-1340325b12ecb7f6d976c11afc3a69ad6881f8ec51122b4d77ddf21c49fa670f.png");
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 @media (min-width: 300px) and (max-width: 1000px){
     .myskills{

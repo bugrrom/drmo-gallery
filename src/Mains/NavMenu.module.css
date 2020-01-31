@@ -1,3 +1,8 @@
+.nav{
+    position: fixed;
+
+}
+
 .menu {
     transform: translate(0, 0);
     display: flex;
@@ -7,7 +12,7 @@
     list-style: none;
 
 }
-.menu .men a {
+.menu .men .a {
     position: relative;
     display: block;
     margin: 0 10px;
@@ -18,8 +23,9 @@
     text-transform: uppercase;
     transition: 0.5s;
     overflow: hidden;
+    cursor: pointer;
 }
-.menu .men a::before {
+.menu .men .a::before {
     content: '';
     position: absolute;
     top: calc(50% - 2px);
@@ -29,10 +35,10 @@
     background: #16a085;
     transition: 0.5s;
 }
-.menu .men a:hover {
+.menu .men .a:hover {
     color: #fff;
 }
-.menu .men a:hover::before {
+.menu .men .a:hover::before {
     animation: animate .5s linear forwards;
 }
 
@@ -61,7 +67,7 @@
         flex-wrap: wrap;
         justify-content: center;
     }
-    .menu .men a {
+    .menu .men .a {
         font-size: 13px;
         margin: 0;
         padding: 5px 5px;

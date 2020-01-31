@@ -6,7 +6,7 @@ import Button from "../Button";
 
 function Contacts() {
   return (
-    <div className={styles.contacts}>
+    <div className={styles.contacts} id='Contact'>
       <div className={styles.container}>
         <h1>Contact</h1>
         <div className={styles.contactsInfo}>
