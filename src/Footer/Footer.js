@@ -6,7 +6,7 @@ import Social from "./Social";
 
 function Footer() {
     return (
-        <div className={styles.footer}>
+        <div className={styles.footer} id='Contact'>
             <div className={styles.footerShadow}>
                 <div className={styles.container}>
                     <span className={styles.name}>Bugakov Roman</span>

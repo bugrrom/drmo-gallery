@@ -6,8 +6,13 @@ import styles from './Social.module.css';
 function Social() {
   return (
       <div className={styles.container}>
-          <a className={styles.iconLn} href="https://www.linkedin.com/in/roman-bugakov-b27197184/"></a>
-          <a className={styles.iconTel} href="#"></a>
+         <a  href="https://www.linkedin.com/in/roman-bugakov-b27197184/" target='_blank' rel="noopener noreferrer"> <i className="fa fa-linkedin"></i> </a>
+          <a href="https://github.com/bugrrom" target='_blank' rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+          <a  href="https://t.me/RomanBugakov" target='_blank' rel="noopener noreferrer"><i className="fa fa-telegram"></i></a>
+
+
+
+
       </div>
   );
 }

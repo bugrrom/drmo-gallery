@@ -63,13 +63,18 @@
     }
 }
 @media (min-width: 300px) and (max-width: 1000px){
+    .nav{
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 100%;
+    }
     .menu{
         flex-wrap: wrap;
         justify-content: center;
+
     }
     .menu .men .a {
-        font-size: 13px;
+        font-size: 20px;
         margin: 0;
-        padding: 5px 5px;
+        padding: 5px 10px;
     }
 }

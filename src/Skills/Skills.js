@@ -23,9 +23,7 @@ export default class Skills extends React.Component {
                         />
                         <MySkills skill={'React'} style={'React'} text={'React, Routing ,PropTypes'}/>
                         <MySkills skill={'Redux'} style={'Redux'} text={'Redux, Redux-Thunk'}/>
-
-
-
+                        <MySkills skill={'TypeScript'} style={'ts'}/>
                         <MySkills skill={'Webpack'} style={'webpack'}/>
                         <MySkills skill={'Git'} style={'git'}/>
                     </div>
