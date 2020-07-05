@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7122ae8ec7274095cf4b4cc84f8414bb",
+    "revision": "90ebca44101c9e921f61e484f62085c2",
     "url": "/demo-gallery/index.html"
   },
   {
-    "revision": "96279a408fabdeff27b3",
-    "url": "/demo-gallery/static/css/main.d4e9a964.chunk.css"
+    "revision": "0e90a294f2828b0a2f13",
+    "url": "/demo-gallery/static/css/main.23ff2a6b.chunk.css"
   },
   {
     "revision": "5901d4c69b6f0e4e1ded",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demo-gallery/static/js/2.aa8b17df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "96279a408fabdeff27b3",
-    "url": "/demo-gallery/static/js/main.dc0e32b5.chunk.js"
+    "revision": "0e90a294f2828b0a2f13",
+    "url": "/demo-gallery/static/js/main.479c3bde.chunk.js"
   },
   {
     "revision": "10268cc95e430c91e475",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39874e36076bf451f37453804c8344e9",
     "url": "/demo-gallery/static/media/doroga_razmetka_derevia_137674_1920x1080.39874e36.jpg"
+  },
+  {
+    "revision": "8353e9ed45f1e3737d4ca963729f5142",
+    "url": "/demo-gallery/static/media/excel.8353e9ed.png"
   },
   {
     "revision": "86db81b1293a339035aa5c5689bd88fb",

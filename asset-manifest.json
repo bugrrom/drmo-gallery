@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/demo-gallery/static/css/main.d4e9a964.chunk.css",
-    "main.js": "/demo-gallery/static/js/main.dc0e32b5.chunk.js",
-    "main.js.map": "/demo-gallery/static/js/main.dc0e32b5.chunk.js.map",
+    "main.css": "/demo-gallery/static/css/main.23ff2a6b.chunk.css",
+    "main.js": "/demo-gallery/static/js/main.479c3bde.chunk.js",
+    "main.js.map": "/demo-gallery/static/js/main.479c3bde.chunk.js.map",
     "runtime-main.js": "/demo-gallery/static/js/runtime-main.d5f2cee2.js",
     "runtime-main.js.map": "/demo-gallery/static/js/runtime-main.d5f2cee2.js.map",
     "static/js/2.aa8b17df.chunk.js": "/demo-gallery/static/js/2.aa8b17df.chunk.js",
     "static/js/2.aa8b17df.chunk.js.map": "/demo-gallery/static/js/2.aa8b17df.chunk.js.map",
     "index.html": "/demo-gallery/index.html",
-    "precache-manifest.3acd2b1ff768ecd89b3897236d7f167c.js": "/demo-gallery/precache-manifest.3acd2b1ff768ecd89b3897236d7f167c.js",
+    "precache-manifest.d0f18daa603740e0d9efd22fe45fe004.js": "/demo-gallery/precache-manifest.d0f18daa603740e0d9efd22fe45fe004.js",
     "service-worker.js": "/demo-gallery/service-worker.js",
-    "static/css/main.d4e9a964.chunk.css.map": "/demo-gallery/static/css/main.d4e9a964.chunk.css.map",
+    "static/css/main.23ff2a6b.chunk.css.map": "/demo-gallery/static/css/main.23ff2a6b.chunk.css.map",
     "static/js/2.aa8b17df.chunk.js.LICENSE.txt": "/demo-gallery/static/js/2.aa8b17df.chunk.js.LICENSE.txt",
     "static/media/MyProject.module.css": "/demo-gallery/static/media/lYepEPtdvfQ.86db81b1.jpg",
     "static/media/Footer.module.css": "/demo-gallery/static/media/doroga_razmetka_derevia_137674_1920x1080.39874e36.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5f2cee2.js",
     "static/js/2.aa8b17df.chunk.js",
-    "static/css/main.d4e9a964.chunk.css",
-    "static/js/main.dc0e32b5.chunk.js"
+    "static/css/main.23ff2a6b.chunk.css",
+    "static/js/main.479c3bde.chunk.js"
   ]
 }
