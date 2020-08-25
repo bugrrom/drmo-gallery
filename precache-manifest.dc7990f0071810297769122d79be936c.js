@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ebca44101c9e921f61e484f62085c2",
+    "revision": "fc46ffe7e832ea7c8751cfe7c6074d2d",
     "url": "/demo-gallery/index.html"
   },
   {
-    "revision": "0e90a294f2828b0a2f13",
-    "url": "/demo-gallery/static/css/main.23ff2a6b.chunk.css"
+    "revision": "23ad3b8fcb647364d3c0",
+    "url": "/demo-gallery/static/css/main.15e2007c.chunk.css"
   },
   {
-    "revision": "5901d4c69b6f0e4e1ded",
-    "url": "/demo-gallery/static/js/2.aa8b17df.chunk.js"
+    "revision": "fe07b96f9942a41ab9e7",
+    "url": "/demo-gallery/static/js/2.fbc72ebb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/demo-gallery/static/js/2.aa8b17df.chunk.js.LICENSE.txt"
+    "url": "/demo-gallery/static/js/2.fbc72ebb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e90a294f2828b0a2f13",
-    "url": "/demo-gallery/static/js/main.479c3bde.chunk.js"
+    "revision": "23ad3b8fcb647364d3c0",
+    "url": "/demo-gallery/static/js/main.ce4fc7b3.chunk.js"
   },
   {
     "revision": "10268cc95e430c91e475",
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d42672d4d185739d26257ed5c653c740",
     "url": "/demo-gallery/static/media/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.d42672d4.png"
+  },
+  {
+    "revision": "c46a60edf5162fb2c4879f2252474dc2",
+    "url": "/demo-gallery/static/media/shopCurses.c46a60ed.png"
   }
 ]);
