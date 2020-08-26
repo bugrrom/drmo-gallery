@@ -13,7 +13,7 @@ function Footer() {
                     <div className={styles.container1}>
                         <Social/>
                     </div>
-                    <span>2019 Все права защищены</span>
+                    <span>2020 Все права защищены</span>
                 </div>
             </div>
         </div>

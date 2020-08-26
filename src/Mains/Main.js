@@ -12,7 +12,7 @@ function Main() {
 
               <ul className={styles.content__container__list}>
                 <li className={styles.content__container__list__item}>I'm Roman Bugakov</li>
-                <li className={styles.content__container__list__item}>I'm Frontend developer</li>
+                <li className={styles.content__container__list__item}>I'm Full Stack Web developer</li>
                 <li className={styles.content__container__list__item}>I can create awesome stuff</li>
                 <li className={styles.content__container__list__item}>Let's work together</li>
               </ul>

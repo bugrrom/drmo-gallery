@@ -76,6 +76,14 @@
     background-position: center center;
     background-size: 85%;
 }
+.node{
+    height: 70px;
+    width: 70px;
+    background-image: url("../images/favicon/nodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 85%;
+}
 @media (min-width: 300px) and (max-width: 1000px){
     .myskills{
         margin-top: 10%;

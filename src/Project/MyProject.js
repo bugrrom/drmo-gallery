@@ -10,8 +10,12 @@ function MyProject(props) {
       <div className={cls.join(' ')}>
           <div className={styles.shadow}>
               <Button text='Open'  src={props.hostSrc}/>
-              <span><p>{props.text}</p></span>
-              <span><p>{props.tech}</p></span>
+              <div className={styles.info}>
+                  <span><p>Date: {props.date}</p></span>
+                  <span><p>{props.name}</p></span>
+                  <span><p>{props.text}</p></span>
+                  <span><p>{props.tech}</p></span>
+              </div>
               <Button text='Github' src={props.gitSrc}/>
           </div>
 
