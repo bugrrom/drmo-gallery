@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/demo-gallery/static/css/main.93fd1a4a.chunk.css",
-    "main.js": "/demo-gallery/static/js/main.30968b94.chunk.js",
-    "main.js.map": "/demo-gallery/static/js/main.30968b94.chunk.js.map",
+    "main.css": "/demo-gallery/static/css/main.2f74bc5c.chunk.css",
+    "main.js": "/demo-gallery/static/js/main.3b003b0f.chunk.js",
+    "main.js.map": "/demo-gallery/static/js/main.3b003b0f.chunk.js.map",
     "runtime-main.js": "/demo-gallery/static/js/runtime-main.d5f2cee2.js",
     "runtime-main.js.map": "/demo-gallery/static/js/runtime-main.d5f2cee2.js.map",
-    "static/js/2.fbc72ebb.chunk.js": "/demo-gallery/static/js/2.fbc72ebb.chunk.js",
-    "static/js/2.fbc72ebb.chunk.js.map": "/demo-gallery/static/js/2.fbc72ebb.chunk.js.map",
+    "static/js/2.2db0968d.chunk.js": "/demo-gallery/static/js/2.2db0968d.chunk.js",
+    "static/js/2.2db0968d.chunk.js.map": "/demo-gallery/static/js/2.2db0968d.chunk.js.map",
     "index.html": "/demo-gallery/index.html",
-    "precache-manifest.4a6849bf1022703d4a31cb087c65607b.js": "/demo-gallery/precache-manifest.4a6849bf1022703d4a31cb087c65607b.js",
+    "precache-manifest.752fe269f90e0ba509a191f84b7d1fec.js": "/demo-gallery/precache-manifest.752fe269f90e0ba509a191f84b7d1fec.js",
     "service-worker.js": "/demo-gallery/service-worker.js",
-    "static/css/main.93fd1a4a.chunk.css.map": "/demo-gallery/static/css/main.93fd1a4a.chunk.css.map",
-    "static/js/2.fbc72ebb.chunk.js.LICENSE.txt": "/demo-gallery/static/js/2.fbc72ebb.chunk.js.LICENSE.txt",
+    "static/css/main.2f74bc5c.chunk.css.map": "/demo-gallery/static/css/main.2f74bc5c.chunk.css.map",
+    "static/js/2.2db0968d.chunk.js.LICENSE.txt": "/demo-gallery/static/js/2.2db0968d.chunk.js.LICENSE.txt",
     "static/media/MyProject.module.css": "/demo-gallery/static/media/shopCurses.c46a60ed.png",
     "static/media/Footer.module.css": "/demo-gallery/static/media/doroga_razmetka_derevia_137674_1920x1080.39874e36.jpg",
     "static/media/App.css": "/demo-gallery/static/media/lava_vulkan_obryv_136106_1920x1080.e23e3e19.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d5f2cee2.js",
-    "static/js/2.fbc72ebb.chunk.js",
-    "static/css/main.93fd1a4a.chunk.css",
-    "static/js/main.30968b94.chunk.js"
+    "static/js/2.2db0968d.chunk.js",
+    "static/css/main.2f74bc5c.chunk.css",
+    "static/js/main.3b003b0f.chunk.js"
   ]
 }
